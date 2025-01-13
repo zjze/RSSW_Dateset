@@ -4,7 +4,7 @@
 
 ![image](https://github.com/zjze/RSSW_Dateset/blob/master/example/12709.jpg)
 
-As shown in the figure above, I made predictions for Sentinel-2 and SDG data, including the panoramic prediction results.
+As shown in the figure above, I made predictions for Sentinel-2 and SDG data, including the panoramic prediction results (The picture is too big and not included).
 It is mainly used to detect Kevin's wake, in order to facilitate the matching and calculation of subsequent experiments.
 
 # RSSW_Dateset
